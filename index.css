@@ -2,19 +2,18 @@ body {
   background: grey;
 
 }
-* {
-   text-align: center!important;
+* { 
+  transition: 1s!important; 
+  text-align: center!important;
 }
 h1 {
-    position: fixed;
-    top: 30%;
+    top: 30%!important;
     bottom: unset;
     background: url(https://c.tenor.com/pA7GYHmHLv8AAAAC/rei-rei-ayanami.gif);
     -webkit-background-clip: text;
     color: transparent;
 }
 a {
-    position: fixed;
     top: 40%;
     font-size: 50px;
 }
