@@ -5,10 +5,13 @@ body {
 * {
    
 }
-
 h1 {
-    transform: translate(50%, 50%);
     left: 50%;
+    right: unset;
     position: fixed;
     top: 30%;
+    bottom: unset;
+    background: url(https://c.tenor.com/pA7GYHmHLv8AAAAC/rei-rei-ayanami.gif);
+    -webkit-background-clip: text;
+    color: transparent;
 }
